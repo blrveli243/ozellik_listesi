@@ -1,4 +1,5 @@
-1.Kullanıcı kaydı ve girişi
-2.Hızlı performans
+1.Hızlı performans
+2.Kullanıcı kaydı ve girişi
 3.Kapsamlı arama
 4.Karanlık mod
+
