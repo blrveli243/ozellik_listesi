@@ -2,3 +2,4 @@
 2.Hızlı performans
 3.Bildirimler
 4.Kapsamlı arama
+5.Karanlık mod
